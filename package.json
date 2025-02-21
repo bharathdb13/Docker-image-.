@@ -1,0 +1,24 @@
+{
+  "name": "my_sample_docker_project",
+  "version": "1.0.0",
+  "description": "Simple docker project to create a docker image using base image",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+    "start": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharathdb13/Docker-image-..git"
+  },
+  "author": "bharathdb13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharathdb13/Docker-image-./issues"
+  },
+  "homepage": "https://github.com/bharathdb13/Docker-image-.#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
